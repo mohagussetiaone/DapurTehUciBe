@@ -1,0 +1,13 @@
+[
+  {
+    "name": "default",
+    "type": "postgres",
+    "host": "rosie.db.elephantsql.com",
+    "port": 5432,
+    "username": "mxezcfns",
+    "password": "tgqu4jLNaiKhmMmCwZTvz_CiXVDGyRUX",
+    "database": "",
+    "synchronize": false,
+    "entities": ["entities/*.js"]
+  }
+]
